@@ -1,4 +1,4 @@
-# audio_transcriber
+# Audio_transcriber
 **Tamil Voice Translator**
 A real-time Tamil Voice Translator that converts spoken Tamil into multiple target languages
 instantly.
